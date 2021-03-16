@@ -1,3 +1,3 @@
-# Succura-token
+# Secuaa
 
-This repository contains the solidity code for Succura token
+This repository contains the solidity code for Secuaa
